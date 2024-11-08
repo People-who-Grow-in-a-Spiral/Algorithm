@@ -36,7 +36,7 @@
 
 |순서|유형|문제|비고|
 |--|--|--|--|
-|00|테스트|[짝수와 홀수]("https://school.programmers.co.kr/learn/courses/30/lessons/12937?language=python3")|테스트 문제입니다.|
+|00|테스트f|[짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12937?language=python3)|테스트 문제입니다.|
 |01|누적합|테스트3|테스트4|
 
 ---
