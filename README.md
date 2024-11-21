@@ -137,5 +137,12 @@
 
 ## 기출 문제
 ### [🗂 기출 문제](./Contents/Past)
+
+|사이트|문제|난이도|비고|
+|--|--|--|--|
+|Programmers|[퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212)|Lv.2| PCCP 기출문제 |
+|Programmers|[충돌 위험 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/340211)|Lv.2| PCCP 기출문제 |
+|Programmers|[택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369)|Lv.2| Kakao 기출문제 |
+
 ---
 
