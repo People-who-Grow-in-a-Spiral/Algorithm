@@ -38,7 +38,6 @@
 
 |순서|유형|비고|
 |--|--|--|
-|00|테스트|테스트 문제입니다.|
 |01|누적합| |
 |02|투포인터 & 슬라이딩 윈도우| |
 |03|정렬| |
@@ -143,6 +142,10 @@
 |Programmers|[퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212)|Lv.2| PCCP 기출문제 |
 |Programmers|[충돌 위험 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/340211)|Lv.2| PCCP 기출문제 |
 |Programmers|[택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369)|Lv.2| Kakao 기출문제 |
+|Programmers|[이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)|Lv.2| Kakao 기출문제|
+|Programmers|[광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)|Lv.2| |
+|BOJ|[팀 빌딩](https://www.acmicpc.net/problem/22945)|Gold 4| |
+|BOJ|[CCW](https://www.acmicpc.net/problem/11758)|Gold 5| |
 
 ---
 
