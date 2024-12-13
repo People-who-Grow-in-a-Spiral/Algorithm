@@ -80,9 +80,9 @@
 ### [🗂 정렬](./Contents/Sort)
 |사이트|문제|난이도|비고|
 |--|--|--|--|
-|PROGRAMMERS|[K번째 수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)|LV1| |
-|PROGRAMMERS|[가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)|LV2| |
-|PROGRAMMERS|[H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)|LV2| |
+|PROGRAMMERS|[K번째 수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)|LV.1| |
+|PROGRAMMERS|[가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)|LV.2| |
+|PROGRAMMERS|[H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)|LV.2| |
 |BOJ|[센서](https://www.acmicpc.net/problem/2212)|G5| |
 
 
@@ -90,6 +90,14 @@
 
 ## 완전 탐색
 ### [🗂 완전 탐색](./Contents/BruteForce/)
+|사이트|문제|난이도|비고|
+|---|---|---|---|
+|Programmers|[모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)|LV.1| |
+|Programmers|[피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)|LV.2| |
+|Programmers|[카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)|LV.2| |
+|BOJ|[⚾](https://www.acmicpc.net/problem/17281)|G4| |
+|BOJ|[호석이 두 마리 치킨](https://www.acmicpc.net/problem/21278)|G5| |
+
 
 ---
 
