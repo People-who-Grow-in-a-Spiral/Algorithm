@@ -38,6 +38,7 @@
 
 |순서|유형|비고|
 |--|--|--|
+|00|테스트|테스트 문제입니다.|
 |01|누적합| |
 |02|투포인터 & 슬라이딩 윈도우| |
 |03|정렬| |
@@ -78,26 +79,12 @@
 
 ## 정렬
 ### [🗂 정렬](./Contents/Sort)
-|사이트|문제|난이도|비고|
-|--|--|--|--|
-|PROGRAMMERS|[K번째 수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)|LV.1| |
-|PROGRAMMERS|[가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)|LV.2| |
-|PROGRAMMERS|[H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)|LV.2| |
-|BOJ|[센서](https://www.acmicpc.net/problem/2212)|G5| |
 
 
 ---
 
 ## 완전 탐색
 ### [🗂 완전 탐색](./Contents/BruteForce/)
-|사이트|문제|난이도|비고|
-|---|---|---|---|
-|Programmers|[모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)|LV.1| |
-|Programmers|[피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)|LV.2| |
-|Programmers|[카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)|LV.2| |
-|BOJ|[⚾](https://www.acmicpc.net/problem/17281)|G4| |
-|BOJ|[호석이 두 마리 치킨](https://www.acmicpc.net/problem/21278)|G5| |
-
 
 ---
 
@@ -141,19 +128,6 @@
 
 ## 동적 계획법
 ### [🗂 동적 계획법](./Contents/DP)
-
-## 기출 문제
-### [🗂 기출 문제](./Contents/Past)
-
-|사이트|문제|난이도|비고|
-|--|--|--|--|
-|Programmers|[퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212)|Lv.2| PCCP 기출문제 |
-|Programmers|[충돌 위험 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/340211)|Lv.2| PCCP 기출문제 |
-|Programmers|[택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369)|Lv.2| Kakao 기출문제 |
-|Programmers|[이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)|Lv.2| Kakao 기출문제|
-|Programmers|[광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)|Lv.2| |
-|BOJ|[팀 빌딩](https://www.acmicpc.net/problem/22945)|Gold 4| |
-|BOJ|[CCW](https://www.acmicpc.net/problem/11758)|Gold 5| |
 
 ---
 
