@@ -57,10 +57,10 @@
 ### [🗂 누적합](./Contents/PrefixSum/)
 |사이트|문제|난이도|비고|
 |--|--|--|--|
-|BOJ|[슈퍼 마리오](https://www.acmicpc.net/problem/2851)|B1| |
-|BOJ|[주지수](https://www.acmicpc.net/problem/15724)|S1| |
-|BOJ|[이건 꼭 풀어야 해!](https://www.acmicpc.net/problem/17390)|S3| |
-|BOJ|[🎵니가 싫어 싫어 너무 싫어 싫어 오지 마 내게 찝쩍대지마🎵 - 1](https://www.acmicpc.net/problem/20440)|G3| |
+|BOJ|[슈퍼 마리오](https://www.acmicpc.net/problem/2851)|Bronze 1| |
+|BOJ|[주지수](https://www.acmicpc.net/problem/15724)|Sliver 1| |
+|BOJ|[이건 꼭 풀어야 해!](https://www.acmicpc.net/problem/17390)|Sliver 3| |
+|BOJ|[🎵니가 싫어 싫어 너무 싫어 싫어 오지 마 내게 찝쩍대지마🎵 - 1](https://www.acmicpc.net/problem/20440)|Gold 3| |
 
 ---
 
@@ -68,10 +68,10 @@
 ### [🗂 투 포인터 & 슬라이딩 윈도우](./Contents/TwoPointer/)
 |사이트|문제|난이도|비고|
 |--|--|--|--|
-|BOJ|[수들의 합5](https://www.acmicpc.net/problem/2018)|S5| |
-|BOJ|[블로그](https://www.acmicpc.net/problem/21921)|S3| |
-|BOJ|[겹치는 건 싫어](https://www.acmicpc.net/problem/20922)|S1| |
-|BOJ|[같이 눈사람 만들래?](https://www.acmicpc.net/problem/20366)|G3| |
+|BOJ|[수들의 합5](https://www.acmicpc.net/problem/2018)|Sliver 5| |
+|BOJ|[블로그](https://www.acmicpc.net/problem/21921)|Sliver 3| |
+|BOJ|[겹치는 건 싫어](https://www.acmicpc.net/problem/20922)|Sliver 1| |
+|BOJ|[같이 눈사람 만들래?](https://www.acmicpc.net/problem/20366)|Gold 3| |
 
 
 ---
@@ -83,7 +83,7 @@
 |PROGRAMMERS|[K번째 수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)|LV.1| |
 |PROGRAMMERS|[가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)|LV.2| |
 |PROGRAMMERS|[H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)|LV.2| |
-|BOJ|[센서](https://www.acmicpc.net/problem/2212)|G5| |
+|BOJ|[센서](https://www.acmicpc.net/problem/2212)|Gold 5| |
 
 
 ---
@@ -95,8 +95,8 @@
 |Programmers|[모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)|LV.1| |
 |Programmers|[피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)|LV.2| |
 |Programmers|[카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)|LV.2| |
-|BOJ|[⚾](https://www.acmicpc.net/problem/17281)|G4| |
-|BOJ|[호석이 두 마리 치킨](https://www.acmicpc.net/problem/21278)|G5| |
+|BOJ|[⚾](https://www.acmicpc.net/problem/17281)|Gold 4| |
+|BOJ|[호석이 두 마리 치킨](https://www.acmicpc.net/problem/21278)|Gold 5| |
 
 
 ---
@@ -104,6 +104,13 @@
 
 ## 이분 탐색
 ### [🗂 이분 탐색](./Contents/BinarySearch/)
+|사이트|문제|난이도|비고|
+|---|---|---|---|
+|BOJ|[숫자 카드](https://www.acmicpc.net/problem/10815)|Silver 5| |
+|BOJ|[캠프가는 양식](https://www.acmicpc.net/problem/1590)|Sliver 4| |
+|BOJ|[두 용액](https://www.acmicpc.net/problem/2470)|Gold 5| |
+|BOJ|[구간 나누기2](https://www.acmicpc.net/problem/13397)|Gold 4| |
+|Programmers|[입국 심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)|LV.3| |
 
 ---
 
