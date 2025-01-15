@@ -107,7 +107,7 @@
 |사이트|문제|난이도|비고|
 |---|---|---|---|
 |BOJ|[숫자 카드](https://www.acmicpc.net/problem/10815)|Silver 5| |
-|BOJ|[캠프가는 양식](https://www.acmicpc.net/problem/1590)|Sliver 4| |
+|BOJ|[캠프가는 영식](https://www.acmicpc.net/problem/1590)|Sliver 4| |
 |BOJ|[두 용액](https://www.acmicpc.net/problem/2470)|Gold 5| |
 |BOJ|[구간 나누기2](https://www.acmicpc.net/problem/13397)|Gold 4| |
 |Programmers|[입국 심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)|LV.3| |
