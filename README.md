@@ -133,7 +133,7 @@
 |사이트|문제|난이도|비고|
 |---|---|---|---|
 |Programmers|[타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)|Lv.2| |
-|Programmers|[게임 맵 최단거](https://school.programmers.co.kr/learn/courses/30/lessons/1844)|Lv.2| |
+|Programmers|[게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)|Lv.2| |
 |Programmers|[네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)|Lv.2| |
 |Programmers|[단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)|Lv.3| |
 |Programmers|[아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694)|Lv.3| |
@@ -167,6 +167,8 @@
 
 ## 동적 계획법
 ### [🗂 동적 계획법](./Contents/DP)
+
+---
 
 ## 기출 문제
 ### [🗂 기출 문제](./Contents/Past)
