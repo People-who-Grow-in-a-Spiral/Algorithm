@@ -4,18 +4,21 @@
 
 ## 👨‍💻  스터디원
 <p>
-<a href="https://github.com/jonghyeok98">
+  <a href="https://github.com/jonghyeok98">
   <img src="https://avatars.githubusercontent.com/u/77715064?v=4" width="100">
-</a>
-<a href="https://github.com/vhzkclq0705">
+  </a>
+  <a href="https://github.com/vhzkclq0705">
   <img src="https://avatars.githubusercontent.com/u/75382687?v=4" width="100">
-</a>
-<a href="https://github.com/altpfwlzh">
+  </a>
+  <a href="https://github.com/altpfwlzh">
   <img src="https://avatars.githubusercontent.com/u/103296628?v=4" width="100">
-</a>
+  </a>
   <a href="https://github.com/binnnnary">
   <img src="https://avatars.githubusercontent.com/u/127098522?v=4" width="100">
-</a>
+  </a>
+  <a href="https://github.com/poly9010">
+  <img src="https://avatars.githubusercontent.com/u/66791731?v=4" width="100">
+  </a>
 </p>
 
 
@@ -130,6 +133,16 @@
 
 ## DFS & BFS
 ### [🗂 DFS & BFS](./Contents/DFSBFS/)
+|사이트|문제|난이도|비고|
+|---|---|---|---|
+|Programmers|[타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)|Lv.2| |
+|Programmers|[게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)|Lv.2| |
+|Programmers|[네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)|Lv.2| |
+|Programmers|[단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)|Lv.3| |
+|Programmers|[아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694)|Lv.3| |
+|Programmers|[여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)|Lv.3| |
+|Programmers|[퍼즐 조각 채우기](https://school.programmers.co.kr/learn/courses/30/lessons/84021)|Lv.3| |
+
 
 ---
 
@@ -157,6 +170,8 @@
 
 ## 동적 계획법
 ### [🗂 동적 계획법](./Contents/DP)
+
+---
 
 ## 기출 문제
 ### [🗂 기출 문제](./Contents/Past)
