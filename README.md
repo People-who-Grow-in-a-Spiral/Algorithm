@@ -161,6 +161,14 @@
 
 ## 구현
 ### [🗂 구현](./Contents/Avatar/)
+|사이트|문제|난이도|비고|
+|---|---|---|---|
+|BOJ|[🐜 기적의 매매법 🐜](https://www.acmicpc.net/problem/20546)|Sliver.5 | |
+|BOJ|[별 찍기 - 19](https://www.acmicpc.net/problem/10994)|Sliver.4| |
+|BOJ|[기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787)|Sliver.2| |
+|BOJ|[배열 돌리기 1](https://www.acmicpc.net/problem/16926)|Gold.5 | |
+|BOJ|[상어 초등학교](https://www.acmicpc.net/problem/21608)|Gold.5| |
+|BOJ|[폴더 정리 (small)](https://www.acmicpc.net/problem/22860)|Gold.3| |
 
 ---
 
