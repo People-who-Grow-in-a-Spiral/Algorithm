@@ -148,6 +148,14 @@
 
 ## 그리디
 ### [🗂 그리디](./Contents/Greedy)
+|사이트|문제|난이도|비고|
+|---|---|---|---|
+|Programmers|[체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)|Lv.1| |
+|Programmers|[조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)|Lv.2| |
+|Programmers|[큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883)|Lv.2 |
+|Programmers|[구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)|Lv.2| |
+|Programmers|[섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)|Lv.3| |
+|Programmers|[단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)|Lv.3| |
 
 ---
 
