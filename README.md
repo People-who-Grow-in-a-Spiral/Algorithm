@@ -174,6 +174,13 @@
 
 ## 유니온 파인드 & 최소 신장 트리
 ### [🗂 유니온 파인드](./Contents/UnionFind/)
+|사이트|문제|난이도|비고|
+|---|---|---|---|
+|BOJ|[친구비](https://www.acmicpc.net/problem/16562)|Gold.4 | |
+|BOJ|[최소 스패닝 트리](https://www.acmicpc.net/problem/1197)|Gold.4 | |
+|BOJ|[사이클 게임](https://www.acmicpc.net/problem/20040)|Gold.4 | |
+|BOJ|[여행 가자](https://www.acmicpc.net/problem/1976)|Gold.4 | |
+|BOJ|[민서의 응급 수술](https://www.acmicpc.net/problem/20955)|Gold.4 | |
 
 ---
 
