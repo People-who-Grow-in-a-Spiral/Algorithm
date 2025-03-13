@@ -100,7 +100,17 @@
 |Programmers|[카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)|LV.2| |
 |BOJ|[⚾](https://www.acmicpc.net/problem/17281)|Gold 4| |
 |BOJ|[호석이 두 마리 치킨](https://www.acmicpc.net/problem/21278)|Gold 5| |
-
+|BOJ|[날짜 계산](https://www.acmicpc.net/problem/1476)|Silver 5| |
+|Programmers|[모음사전](https://www.acmicpc.net/problem/84512)|LV.2| |
+|BOJ|[근손실](https://www.acmicpc.net/problem/18429)|Silver 3| |
+|BOJ|[치킨 배달](https://www.acmicpc.net/problem/15686)|Gold 5| |
+|BOJ|[연구소](https://www.acmicpc.net/problem/14502)|Gold 4| |
+|BOJ|[종이조각](https://www.acmicpc.net/problem/14391)|Gold 3| |
+|BOJ|[죽음의 비](https://www.acmicpc.net/problem/22944)|Gold 3| |
+|BOJ|[카드 섞기](https://www.acmicpc.net/problem/21315)|Gold 5| |
+|BOJ|[부분 삼각 수열](https://www.acmicpc.net/problem/1548)|Gold 5| |
+|BOJ|[제곱수 찾기](https://www.acmicpc.net/problem/1025)|Gold 5| |
+|BOJ|[A와 B2](https://www.acmicpc.net/problem/12919)|Gold 5| |
 
 ---
 
