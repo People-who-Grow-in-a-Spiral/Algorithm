@@ -126,8 +126,11 @@
 |BOJ|[안전 영역](https://www.acmicpc.net/problem/2468)|Sliver 1| |
 |Programmers|[가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189)|Lv.3| |
 |Programmers|[순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191)|LV.3| |
-
-
+|BOJ|[불!](https://www.acmicpc.net/problem/4179)|Gold 3| |
+|BOJ|[숨바꼭질 3](https://www.acmicpc.net/problem/13549)|Gold 5| |
+|BOJ|[피리부는 사나이](https://www.acmicpc.net/problem/16724)|Gold 3| |
+|BOJ|[샘터](https://www.acmicpc.net/problem/18513)|Gold 3| |
+|BOJ|[직사각형 탈출](https://www.acmicpc.net/problem/16973)|Gold 4| |
 
 ---
 
@@ -189,7 +192,6 @@
 ### [🗂 최단 경로](./Contents/ShortestPath/)
 
 ---
-
 
 ## 동적 계획법
 ### [🗂 동적 계획법](./Contents/DP)
